@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ein Sommer in Paris
+
+This log tracks the cryptographic history and versioning for the song **Ein Sommer in Paris** (ein-sommer-in-paris).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T22:44:26.217014 | `v1` | `cb6fc1d95e07bc9be650da3a0e63b960c2c7c06282ee45e66f477afb8372a144` | `5a697776246f6ec796698e2b657144ffdcb4f141e0ed31c0583dce917f66019c` | `2026-06-30_ein-sommer-in-paris-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

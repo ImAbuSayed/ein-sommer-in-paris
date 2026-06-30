@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-sommer-in-paris/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ein Sommer in Paris](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-sommer-in-paris/) |
+| **Get License** | [Get a Licensing Quote for Ein Sommer in Paris](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-sommer-in-paris/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cb6fc1d95e07bc9be650da3a0e63b960c2c7c06282ee45e66f477afb8372a144` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
