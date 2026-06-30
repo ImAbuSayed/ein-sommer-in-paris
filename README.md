@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-sommer-in-paris/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Ein Sommer in Paris](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-sommer-in-paris/) |
+| **Get License** | [Obtain a Music License for Ein Sommer in Paris](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-sommer-in-paris/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir cruisen durch die City, ein Sommer in Paris
+> Ein Vibe wie im Film, den ich mit dir genieß
+> Wir jagen die Lichter, der Motor zieht laut
+> Du bist the only one, der mein Herz jetzt vertraut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
